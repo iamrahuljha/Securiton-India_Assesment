@@ -6,7 +6,7 @@
 """
 please should have a Python3 
 need to install the requests module with below command through terminal 
->> pip install requests
+pip install requests
 clone the repo git clone https://github.com/iamrahuljha/Securiton-India_Assesment.git
 then run python3 Securiton_India_test.py inside the Securiton-India_Assesment.git folder
 
